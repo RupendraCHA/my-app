@@ -1,0 +1,26 @@
+.user-profile{
+    display: flex;
+    align-items: center;
+    margin-bottom:30px;
+    border-radius:12px;
+}
+
+.image{
+    height:48px;
+    width:48px;
+    border-radius:50%;
+}
+.person-details{
+    margin-left:12px;
+}
+.person-name{
+    font-size:18px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.job{
+    font-size:12px;
+    font-family:"Roboto";
+    font-weight:400;
+    margin:0px;
+}
